@@ -8,4 +8,6 @@
 
 ```
 curl -X POST -H 'Content-Type: text/plain' <API_GATEWAY_URL> -d 'TechPrimers' -i
+
+curl -X POST -H 'Content-Type: text/plain' https://b9jdy30ao4.execute-api.eu-west-1.amazonaws.com/default/Spring-Cloud-Function-Lambda -d 'Maaa' -i
 ```
